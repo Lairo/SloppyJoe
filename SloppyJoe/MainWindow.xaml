@@ -31,7 +31,7 @@
         <TextBlock x:Name="item5" Grid.Row="4" FontSize="18"/>
         <TextBlock x:Name="price5" Grid.Column="1" HorizontalAlignment="Right" Grid.Row="4" FontSize="18" />
         <TextBlock x:Name="item6" Grid.Row="5" FontSize="18"/>
-        <TextBlock x:Name="price6" HorizontalAlignment="Right" Grid.Row="5" FontSize="18" />
+        <TextBlock x:Name="price6" HorizontalAlignment="Right" Grid.Row="5" FontSize="18" Grid.Column="5" />
         <TextBlock x:Name="guacamole" Grid.ColumnSpan ="2" HorizontalAlignment="Right" Grid.Row="6" VerticalAlignment="Bottom" FontSize="18"/>
 
 
